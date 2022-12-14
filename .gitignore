@@ -1,0 +1,10 @@
+# Ignore everything
+/*
+# Includelist some files
+!.gitignore
+
+!wp-content/
+wp-content/*
+!wp-content/plugins/
+wp-content/plugins/*
+!wp-content/plugins/ts-playground/
